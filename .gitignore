@@ -4,3 +4,6 @@ app/**/*.map
 node_modules
 jspm_packages
 bower_components
+dist/**/*.js
+dist/**/*.map
+npm-debug.log
